@@ -362,3 +362,4 @@
     </script>
 </body>
 </html>
+<img src="1000342402.jpg" class="circle-img" alt="My Photo">
